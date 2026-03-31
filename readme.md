@@ -3,8 +3,11 @@
   <p>Удалить из таблицы с автоматическими значениями записи, у которых Is_deleted_src= 1, а записям с Is_deleted_src= 0 вывести значение атрибута из таблицы manual_tbl.</p>
 <H2>Данные:</H2>
 <img src="https://github.com/OlgaSelivanova1/analytics_sql_quary/blob/main/img.jpg/task_1.jpg" alt="tables">
+<H4>Решение:</H4>
+<p><a href="https://github.com/OlgaSelivanova1/analytics_sql_quary/blob/main/my_quary_sql/task_1.txt">Код sql developer</a></p>
+<img src="https://github.com/OlgaSelivanova1/analytics_sql_quary/blob/main/img.jpg/my_result_task1.jpg" alt="result_my">
 <H1/>TASK_2:</H1>
-  Вывести уникальные значения из столбца «a», в которых максимальное значение в столбце «b» и соответствующее значение в столбце «c».
+<p>Вывести уникальные значения из столбца «a», в которых максимальное значение в столбце «b» и соответствующее значение в столбце «c».</p>
 <H2>Данные:</H2>
 <img src="https://github.com/OlgaSelivanova1/analytics_sql_quary/blob/main/img.jpg/task_2.jpg" alt="tables">
 <H1/>TASK_3:</H1>
