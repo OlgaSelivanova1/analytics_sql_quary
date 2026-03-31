@@ -1,6 +1,7 @@
 <H1/>TASK_1:</H1>
   Вывести все сделки и значения их атрибутов с учетом ручных корректировок.
-  <p>Удалить из таблицы с автоматическими значениями записи, у которых Is_deleted_src= 1, а записям с Is_deleted_src= 0 вывести значение атрибута из таблицы manual_tbl.</p>
+ <p style="text-indent: 20px;">
+  Удалить из таблицы с автоматическими значениями записи, у которых Is_deleted_src= 1, а записям с Is_deleted_src= 0 вывести значение атрибута из таблицы manual_tbl.</p>
 <H2>Данные:</H2>
 <img src="https://github.com/OlgaSelivanova1/analytics_sql_quary/blob/main/img.jpg/task_1.jpg" alt="tables style="width=250">
 <H4>Решение:</H4>
