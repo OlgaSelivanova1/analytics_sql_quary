@@ -10,10 +10,16 @@
 <p>Вывести уникальные значения из столбца «a», в которых максимальное значение в столбце «b» и соответствующее значение в столбце «c».</p>
 <H2>Данные:</H2>
 <img src="https://github.com/OlgaSelivanova1/analytics_sql_quary/blob/main/img.jpg/task_2.jpg" alt="tables">
+<H4>Решение:</H4>
+<p><a href="https://github.com/OlgaSelivanova1/analytics_sql_quary/blob/main/my_quary_sql/task_2.sql">Код sql developer</a></p>
+<img src="https://github.com/OlgaSelivanova1/analytics_sql_quary/blob/main/img.jpg/my_result_task2.jpg" alt="result_my">
 <H1/>TASK_3:</H1>
   Необходимо из 2х заданных таблиц получить итоговую таблицу, в которой требуется создать новые интервалы с уникальной комбинацией полей nm_amt, client_name.
 <H2>Данные:</H2>
 <img src="https://github.com/OlgaSelivanova1/analytics_sql_quary/blob/main/img.jpg/task_3.jpg" alt="tables">
+<H4>Решение:</H4>
+<p><a href="">Код sql developer</a></p>
+<img src="" alt="result_my">
 Дополнительно:
  <p> В итоговой таблице добавить отсутствующие периоды. Считаем, что значения полей nm_amt и client_nameотсутствуют в пропущенных периодах.</p>
 <img src="https://github.com/OlgaSelivanova1/analytics_sql_quary/blob/main/img.jpg/task_3_result_tbl.jpg" alt="result_tables">
@@ -26,10 +32,16 @@
 <p>Нужно предложить вариант раскладки значений из дней в периоды постоянства остатка. Периоды когда остаток равен нулю тоже надо показывать.</p>
 Структура итоговой таблицы:
 <pre><p>Дата с  | Дата по | Номер счета | Остаток на счете</p></pre>
-<H1/>TASK_3:</H1>
+<H4>Решение:</H4>
+<p><a href="">Код sql developer</a></p>
+<img src="" alt="result_my">
+<H1/>TASK_5:</H1>
 Схлопнуть периоды, если у них все атрибуты одинаковые.
 <H2>Данные:</H2>
 <img src="https://github.com/OlgaSelivanova1/analytics_sql_quary/blob/main/img.jpg/task_5.jpg" alt="result_tables">
+<H4>Решение:</H4>
+<p><a href="">Код sql developer</a></p>
+<img src="" alt="result_my">
 
 
 
